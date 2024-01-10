@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class DictionaryBackendApplication
 
 fun main(args: Array<String>) {
-	runApplication<DictionaryBackendApplication>(*args)
+    runApplication<DictionaryBackendApplication>(*args)
 }
